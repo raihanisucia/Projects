@@ -13,12 +13,12 @@ Using Python, the project processes experimental motion data, performs explorato
 
 
 ## Project Workflow
-- Experimental Data
-- Data Preprocessing
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- Performance Evaluation
+1. Experimental Data
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Statistical Analysis
+5. Data Visualization
+6. Performance Evaluation
 
 ## Skills Demonstrated
 - Data Analysis
