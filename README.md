@@ -4,7 +4,7 @@
 
 ### Raihani Sucianingsih Putri
 
-Fresh Graduate Physics University Indonesia • Data Scientist • Machine Learning Enthusiast • AI Research
+Fresh Graduate Physics University Indonesia • Data Scientist • Data Analyst • Machine Learning Enthusiast • AI Research
 
 </div>
 
