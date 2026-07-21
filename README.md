@@ -1,4 +1,4 @@
-# AI & Data Science Portfolio
+# AI & Data Science Projects Portfolio
 
 <div align="center">
 
