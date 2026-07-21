@@ -70,12 +70,6 @@ Contributed to scientific research involving experimental data processing, thres
 - Numerical Analysis
 - Research Analytics
 
-**Tech Stack**
-
-`Python`
-`NumPy`
-`Matplotlib`
-
 ---
 
 ## 🎓 Undergraduate Thesis
