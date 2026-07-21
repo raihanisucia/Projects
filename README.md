@@ -6,9 +6,6 @@
 
 Fresh Graduate Physics University Indonesia • Data Scientist • Machine Learning Enthusiast • AI Research
 
-[LinkedIn](https://linkedin.com/in/raihanisucia) •
-[Email](mailto:raihanisucia@gmail.com)
-
 </div>
 
 ---
